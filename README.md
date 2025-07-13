@@ -22,13 +22,17 @@ Upon placing the marker, CTs can either type /removemarker or /rmarker to remove
 
 # Installation
 Step 1: Download the Plugin
+
 Go to the Releases page of this repository and find the latest release (e.g., v1.0.0) to download it.
 
 Step 2: Upload the Plugin to Your Server
+
 Paste the unzipped file into your CS2 server's plugins folder (usually something like .../plugins/).
 
 Step 3: Configure the Plugin
+
 Start your server to generate the default configuration file (marker_config.json).
 
 Step 4: Restart your Server
+
 Restart your CS2 server to ensure the plugin works.
