@@ -1,7 +1,7 @@
 # CS2 Marker
 A simple, easy-to-use, and lightweight Marker Plugin for CS2 Jailbreak.
 
-Created by ThatTamer using code originally written by destoer, licensed under GPLv3.
+Created by ThatTamer using code originally written by destoer & schwarper, licensed under GPLv3.
 
 # Info
 This plugin is intended for use only on CS2 Jailbreak servers and may not work as needed on other servers.
