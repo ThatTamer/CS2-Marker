@@ -19,3 +19,18 @@ Built off of CounterStrikeSharp ver. 1.0.316.
 CTs can type /marker or bind the command to a keystroke to place the marker where they're aiming.
 
 Upon placing the marker, CTs can either type /removemarker or /rmarker to remove the already placed marker.
+
+# Installation
+Step 1: Download the Plugin
+Go to the Releases page of this repository.
+
+Find the latest release (e.g., v1.0.0) and download it.
+
+Step 2: Upload the Plugin to Your Server
+Paste the unzipped file into your CS2 server's plugins folder (usually something like .../plugins/).
+
+Step 3: Configure the Plugin
+Start your server to generate the default configuration file (marker_config.json).
+
+Step 4: Restart your Server
+Restart your CS2 server to ensure the plugin works.
