@@ -13,7 +13,7 @@ Built off of CounterStrikeSharp ver. 1.0.316.
 * Markers appear where the player is aiming,
 * Prevents duplicate markers with only one marker being allowed for use,
 * Light-weight and optimized for Jailbreak servers,
-* Easy customization of marker design (Color, Size, Lifespan).
+* Easy customization of marker design (Color, Size).
 
 # Usage
 CTs can type /marker or bind the command to a keystroke to place the marker where they're aiming.
