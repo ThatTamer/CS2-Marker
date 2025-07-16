@@ -6,7 +6,7 @@ Created by ThatTamer using code originally written by destoer & schwarper, licen
 # Info
 This plugin is intended for use only on CS2 Jailbreak servers and may not work as needed on other servers.
 
-Built off of CounterStrikeSharp ver. 1.0.316.
+Built off of CounterStrikeSharp ver. 1.0.316 and C#.
 
 # Features
 * CT (Guard) only marker placement,
