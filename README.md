@@ -45,5 +45,4 @@ Step 4: Restart your Server
 * Restart your CS2 server to ensure the plugin works.
 
 # Credits
-Built using:
 - Code base inspired by [destoer](https://github.com/destoer) and [schwarper](https://github.com/schwarper)
