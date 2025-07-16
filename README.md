@@ -30,6 +30,7 @@ Step 1: Download the Plugin
 Step 2: Upload the Plugin to Your Server
 
 * Paste the unzipped file into your CS2 server's plugins folder (usually something like .../plugins/).
+* If you do not plan on modifying the plugin, delete everything from the unzipped file besides the .dll and .pdb files!
 
 
 
