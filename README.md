@@ -40,7 +40,7 @@ Step 3: Configure the Plugin
 
 
 
-Step 4: Restart your Server
+Step 4: Restart Your Server
 
 * Restart your CS2 server to ensure the plugin works.
 
