@@ -90,7 +90,7 @@ public class MarkerPlugin : BasePlugin
         float cy = (float)Math.Cos(yaw);
         float sy = (float)Math.Sin(yaw);
 
-        // Computer view angles
+        // Compute view angles
         Vector forward = new Vector(cp * cy, cp * sy, -sp);
 
         // Sets up a raytrace from players eye position to end point -- Projects 4000 units forward to place on far surfaces ( Can Change here. )
